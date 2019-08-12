@@ -85,16 +85,17 @@
                 </docAuthor>
                 <docTitle>
                     <titlePart>Libri prohibiti:</titlePart>
-                    <titlePart>rastoča zbirka bibliografskih, zgodovinskih in slikovnih
-                        podatkov o prepovedanih knjigah, najpogosteje branih na Slovenskem v
-                        zgodnjem novem veku</titlePart>
+                    <titlePart>rastoča zbirka bibliografskih, zgodovinskih in slikovnih podatkov o
+                        prepovedanih knjigah, najpogosteje branih na Slovenskem v zgodnjem novem
+                        veku</titlePart>
                     <titlePart type="subtitle">Elektronska izdaja v dopolnjevanju</titlePart>
                 </docTitle>
                 <byline>Uredila <docAuthor>Luka Vidmar</docAuthor> in <docAuthor>Matija
                         Ogrin</docAuthor>
                 </byline>
                 <docImprint>
-                    <ref target="http://ezb.ijs.si/fedora/get/ezmono:ezmono/VIEW/">Elektronske znanstvene monografije (eZMono)</ref>
+                    <ref target="http://ezb.ijs.si/fedora/get/ezmono:ezmono/VIEW/">Elektronske
+                        znanstvene monografije (eZMono)</ref>
                     <publisher>
                         <ref target="https://isllv.zrc-sazu.si/#v">Inštitut za slovensko literaturo
                             in literarne vede ZRC SAZU</ref>
