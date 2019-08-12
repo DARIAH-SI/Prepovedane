@@ -9,7 +9,7 @@
                 <title>Elektronska izdaja v dopolnjevanju</title>
                 <author>Luka Vidmar</author>
                 <respStmt>
-                    <resp>Prispevke delih J. L. Schönlebna in rokopisnih knjigah napisala</resp>
+                    <resp>Prispevke o knjigah J. L. Schönlebna in rokopisnih knjigah napisala</resp>
                     <name>Monika Deželak Trojar</name>
                     <name>Matija Ogrin</name>
                 </respStmt>
@@ -65,8 +65,8 @@
             <listChange>
                 <change>
                     <date>2019-08-11</date>
-                    <name>Andrej Pančur</name> odstranil nepotrebne hi, označil strukturo TEI
-                    dokumenta in dodal identifikatorje</change>
+                    <name>Andrej Pančur</name> Odstranil nepotrebne hi, označil strukturo TEI
+                    dokumenta in dodal identifikatorje.</change>
                 <change>
                     <date>2019-08-11</date>
                     <name>Matija Ogrin</name> Dopolnil kolofon in front.</change>
@@ -93,6 +93,9 @@
                 <byline>Uredila <docAuthor>Luka Vidmar</docAuthor> in <docAuthor>Matija
                         Ogrin</docAuthor>
                 </byline>
+                <byline>Ureditev elektronskega zapisa in postavitev na splet <docAuthor>Andrej
+                        Pančur</docAuthor>
+                </byline>
                 <docImprint>
                     <ref target="http://ezb.ijs.si/fedora/get/ezmono:ezmono/VIEW/">Elektronske
                         znanstvene monografije (eZMono)</ref>
@@ -107,7 +110,7 @@
                 <head>Kolofon</head>
             </divGen>
             <divGen type="teiHeader" xml:id="teiHeader">
-                <head>TEI kolofon</head>
+                <head>Kolofon TEI</head>
             </divGen>
             <divGen type="toc" xml:id="toc">
                 <head>Kazalo vsebine</head>
@@ -145,6 +148,7 @@
                     nahajališču.</p>
             </div>
         </front>
+        
         <body>
             <div type="part" xml:id="studija">
                 <head xml:id="prepovedane-head-6">Uvodna študija</head>
