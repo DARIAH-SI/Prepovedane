@@ -1316,7 +1316,7 @@
                             <graphic url="Albertus-1558.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Albertus-1669">
                         <head>Albertus Magnus de secretis mulierum. Amstelodami, 1669. (Ljubljana,
                             Semeniška knjižnica, neohranjeno)</head>
                         <p>
@@ -1638,7 +1638,7 @@
                             <graphic url="Dalmatin-1584c.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Dalmatin-1584d">
                         <head>Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta,
                             Slovenſki, tolmazhena, ſkusi Ivria Dalmatina. Wittemberg, 1584. (Kamnik,
                             Frančiškanski samostan Kamnik, brez signature)</head>
@@ -1650,17 +1650,11 @@
                                 označena kot prepovedana. Prav tako uporabnikov niso motile izvirne
                                 platnice iz časa natisa, ki prikazujejo Martina Luthra.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10010" width="16.002cm" height="24.135425cm"
-                                    url="media/image10.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\ŠKERPIN\PREPOVEDANE\DSC_4819
-                                        - Copy-1.jpg</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-10">
+                            <graphic url="Dalmatin-1584d.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Dalmatin-1584e.jpg">
                         <head>Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta,
                             Slovenſki, tolmazhena, ſkusi Ivria Dalmatina. Wittemberg, 1584.
                             (Nazarje, Frančiškanski samostan Nazarje, brez signature)</head>
@@ -1677,15 +1671,10 @@
                                 katoliške roke, v nazarski samostan.</hi>
                         </p>
                         <figure>
-                            <p>
-                                <graphic n="10011" width="16.002cm" height="25.29325cm"
-                                    url="media/image11.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3667.JPG</desc>
-                                </graphic>
-                            </p>
+                            <graphic url="Dalmatin-1584e.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Dalmatin-1584f">
                         <head>Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta,
                             Slovenſki, tolmazhena, ſkusi Ivria Dalmatina. Wittemberg, 1584.
                             (Ljubljana, Frančiškanski samostan Ljubljana – Tromostovje, brez
@@ -1705,14 +1694,11 @@
                                 samostana pod Jožefom II. je knjiga prišla v knjižnico ljubljanskega
                                 frančiškanskega samostana.</hi>
                         </p>
-                        <p>
-                            <graphic n="10012" width="16cm" height="12cm" url="media/image12.jpeg"
-                                rend="inline">
-                                <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\125___08\IMG_3497.JPG</desc>
-                            </graphic>
-                        </p>
+                        <figure xml:id="prepovedane-figure-11">
+                            <graphic url="Dalmatin-1584f.jpg"/>
+                        </figure>
                     </div>
-                    <div>
+                    <div xml:id="Dalmatin-1584g">
                         <head>Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta,
                             Slovenſki, tolmazhena, ſkusi Ivria Dalmatina. Wittemberg, 1584. (Zagreb,
                             Metropolitana, M 9216–2°)</head>
@@ -1730,7 +1716,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Dalmatin-Svetiga_Pisma_pervi_deil">
                     <head>Jurij Dalmatin, Biblie, tv ie, vsiga Svetiga Pisma pervi deil</head>
                     <p>
                         <hi style="font-size:12pt">Dalmatinov slovenski prevod pentatevha je bil del
@@ -1744,7 +1730,7 @@
                             Dalmatinovega prevoda pentatevha ni prav veliko, ker naklada najbrž ni
                             bila velika.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Dalmatin-1578">
                         <head>Biblie, tv ie, vsiga Svetiga Pisma pervi deil. U Lvblani, 1578.
                             (Kamnik, Frančiškanski samostan Kamnik, brez signature)</head>
                         <p>
@@ -1757,22 +1743,19 @@
                                 jo celo lepo na novo zvezali (naslovnico bi sicer lahko odstranili
                                 tudi tedaj).</hi>
                         </p>
-                        <p>
-                            <graphic n="10013" width="16cm" height="12cm" url="media/image13.jpeg"
-                                rend="inline">
-                                <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3627.JPG</desc>
-                            </graphic>
-                        </p>
+                        <figure xml:id="prepovedane-figure-12">
+                            <graphic url="Dalmatin-1578.jpg"/>
+                        </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Decimator-Silvae">
                     <head>Heinrich Decimator, Silvae vocabulorum et phrasium</head>
                     <p>
                         <hi style="font-size:12pt" xml:space="preserve">Heinrich Decimator (1544‒1615), nemški protestantski teolog, astronom in jezikoslovec, je bil avtor vplivnih jezikoslovnih del, med drugim večjezičnega leksikona </hi>
                         <hi rend="italic" style="font-size:12pt">Sylvae vocabulorum et phrasium</hi>
                         <hi style="font-size:12pt" xml:space="preserve">. Indeks je to delo prepovedal v neprečiščeni obliki zaradi nekaj fraz, neskladnih s katolištvom. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Decimator-1589">
                         <head>Secunda pars Sylvae vocabulorum et phrasium a M. Henrico Decimatore.
                             S. l., 1589. Nazarje, Frančiškanski samostan Nazarje, 4 I 2. </head>
                         <p>
@@ -1786,16 +1769,11 @@
                                 naslovno stran in na druga mesta, med njimi je bil »Andreas Krani,
                                 possessor huius libri poëta«.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10014" width="16.002cm" height="26.594605555555557cm"
-                                    url="media/image14.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3660.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-13">
+                            <graphic url="Decimator-1589.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Decimator-1620">
                         <head>Silvae vocabulorum et phrasium à Henrico Decimatore. Lipsiae, 1620.
                             (Ljubljana, Semeniška knjižnica, X V 14 r)</head>
                         <p>
@@ -1808,15 +1786,12 @@
                                 ostale svoje knjige – zapustil Semeniški knjižnici v Ljubljani. Pred
                                 njim je imel knjigo Johann Jacob Spring.</hi>
                         </p>
-                        <p>
-                            <graphic n="10015" width="16.002cm" height="21.329925cm"
-                                url="media/image15.jpeg" rend="inline">
-                                <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\16.JPG</desc>
-                            </graphic>
-                        </p>
+                        <figure xml:id="prepovedane-figure-14">
+                            <graphic url="Decimator-1620.jpg"/>
+                        </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Rotterdamski-Adagia">
                     <head>Erazem Rotterdamski, Adagia</head>
                     <p>
                         <hi style="font-size:12pt" xml:space="preserve">Odnos Cerkve do del Erazma Rotterdamskega (1466–1536), tudi do njegove zbirke pregovorov </hi>
@@ -1832,7 +1807,7 @@
                             Zbirko, prvič natisnjeno leta 1500 v Benetkah, sestavlja več kot 3000
                             latinskih in grških rekov in pregovorov s komentarji.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Rotterdamski-1519">
                         <head>Collectanea adagiorum veterum D. Erasmi Roterodami. Hagenoae, 1519.
                             (Ljubljana, Narodna in univerzitetna knjižnica, GS 1426)</head>
                         <p>
@@ -1847,18 +1822,11 @@
                                 Knjiga je ostala do leta 1798 v Gornjem Gradu, nato pa je prišla v
                                 Licejsko knjižnico v Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image16.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-15">
+                            <graphic url="Rotterdamski-1519.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Rotterdamski-1549">
                         <head>Epitome adagiorum ex novissima D. Erasmi Rot. recognitione. Coloniae,
                             1549. (Ljubljana, Semeniška knjižnica v Ljubljani, X V 15 r)</head>
                         <p>
@@ -1877,16 +1845,11 @@
                                 vpis njenega prvega (nedvomno protestantskega) lastnika po imenu
                                 Eustachius Feiertager iz leta 1553: »Spes mea Christus«.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10017" width="16.002cm" height="25.182613888888888cm"
-                                    url="media/image17.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\ČLANKI\KRONIKA\SLIKE\11.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-16">
+                            <graphic url="Rotterdamski-1549.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Rotterdamski-1678">
                         <head>Desiderii Erasmi Roterodami Adagiorum epitome recognita. Lipsiae 1678.
                             (Kamnik, Frančiškanski samostan Kamnik, XI 41)</head>
                         <p>
@@ -1897,22 +1860,24 @@
                                 najpomembnejših humanistov v katoliškem svetu še globoko v 18.
                                 stoletje.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10018" width="16.002cm" height="25.56425cm"
-                                    url="media/image18.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3608.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-17">
+                            <graphic url="Rotterdamski-1678.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Frischlin-Operum_poeticorum">
                     <head>Nikodem Frischlin, Operum poeticorum pars scenica</head>
-                    <p>
-                        <hi style="font-size:12pt" xml:space="preserve">Čeprav je württemberški humanist in pesnik Nikodem Frischlin (1547–1590) kot velik poznavalec in občudovalec antične književnosti večinoma pisal literarna dela v latinščini, je Cerkev zmotila njegova ostra protikatoliška naravnanost, zato ga je razglasila za avtorja prvega razreda. Poleg Trubarja in Vergerija je bil Frischlin edini s slovenskimi deželami tesno povezan avtor prvega razreda, saj je bil dober znanec slovenskih protestantov in v letih 1582‒1584 rektor stanovske šole v Ljubljani, ki je pripravljala kranjske plemiške sinove na univerzitetni študij. Njegove drame se sicer niso ukvarjale z vero, vendar so bile v katoliški perspektivi kot delo tako spornega avtorja prav tako sumljive. </hi>
-                    </p>
-                    <div>
+                    <p>Čeprav je württemberški humanist in pesnik Nikodem Frischlin (1547–1590) kot
+                        velik poznavalec in občudovalec antične književnosti večinoma pisal
+                        literarna dela v latinščini, je Cerkev zmotila njegova ostra protikatoliška
+                        naravnanost, zato ga je razglasila za avtorja prvega razreda. Poleg Trubarja
+                        in Vergerija je bil Frischlin edini s slovenskimi deželami tesno povezan
+                        avtor prvega razreda, saj je bil dober znanec slovenskih protestantov in v
+                        letih 1582‒1584 rektor stanovske šole v Ljubljani, ki je pripravljala
+                        kranjske plemiške sinove na univerzitetni študij. Njegove drame se sicer
+                        niso ukvarjale z vero, vendar so bile v katoliški perspektivi kot delo tako
+                        spornega avtorja prav tako sumljive. </p>
+                    <div xml:id="Frischlin-1579">
                         <head>Nicodemi Frischlini Alemanni Comoedia nova de admiranda fortuna
                             Hildegardis. Tubingae, 1579. (Ljubljana, Semeniška knjižnica, Y VIII 6
                             č)</head>
@@ -1927,7 +1892,7 @@
                                 fizik kranjskih deželnih stanov in član Akademije operozov.</hi>
                         </p>
                     </div>
-                    <div>
+                    <div xml:id="Frischlin-1585">
                         <head>Operum poeticorum pars scenica Nicodemi Frischlini. 1585. (Ljubljana,
                             Narodna in univerzitetna knjižnica, R 1718) </head>
                         <p>
@@ -1935,7 +1900,7 @@
                             <hi rend="italic" style="font-size:12pt">De quadam virgine</hi>
                             <hi style="font-size:12pt">.</hi>
                         </p>
-                        <figure>
+                        <figure xml:id="prepovedane-figure-18"> 
                             <p>
                                 <graphic n="10019" width="16.002cm" height="23.132052777777776cm"
                                     url="media/image19.jpeg" rend="inline">
