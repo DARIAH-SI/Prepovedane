@@ -60,7 +60,7 @@
    <xsl:param name="outputDir">docs/</xsl:param>
    
    <xsl:param name="homeLabel">eZMono</xsl:param>
-   <xsl:param name="homeURL">http://sistory.si/11686/41645</xsl:param>
+   <xsl:param name="homeURL">https://dariah-si.github.io/Prepovedane/</xsl:param>
    
    <xsl:param name="splitLevel">1</xsl:param>
    
