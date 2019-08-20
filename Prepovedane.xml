@@ -12,25 +12,27 @@
                 <title>Elektronska izdaja v dopolnjevanju</title>
                 <author>Luka Vidmar</author>
                 <respStmt>
-                    <resp>Prispevke o knjigah J. L. Schönlebna napisala</resp>
+                    <resp>Prispevke o delih Janeza Ludvika Schönlebna napisala</resp>
                     <name>Monika Deželak Trojar</name>
                 </respStmt>
                 <respStmt>
-                    <resp>Uredil</resp>
+                    <resp>Uredila</resp>
+                    <name>Matija Ogrin</name>
                     <name>Luka Vidmar</name>
                 </respStmt>
                 <respStmt>
-                    <resp>Ureditev elektronskega zapisa</resp>
-                    <name>Matija Ogrin</name>
+                    <resp>Elektronski zapis uredil in na splet postavil</resp>
                     <name>Andrej Pančur</name>
                 </respStmt>
                 <respStmt>
-                    <resp>Postavitev na splet</resp>
-                    <name>Matija Ogrin</name>
+                    <resp>Fotografije</resp>
+                    <name>Luka Vidmar</name>
+                    <name>Narodna in univerzitetna knjižnica (<ref target="https://dlib.si/"
+                            >Digitalna knjižnica Slovenije</ref>)</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
-                <edition>Delovna izdaja, <date>2019-08-19</date>
+                <edition>Delovna izdaja, <date>2019-08-20</date>
                 </edition>
             </editionStmt>
             <extent>Besedilo: 82.650 znakov. Datoteka XML: 173 kB</extent>
@@ -47,6 +49,10 @@
                         <addrLine>SI-1000</addrLine>
                     </address>
                 </publisher>
+                <authority>Elektronska izdaja je nastala v okviru raziskovalnega projekta <hi
+                        rend="italic">Prepovedane knjige na Slovenskem v zgodnjem novem veku</hi>
+                    (L6-7134), ki ga sofinancira Javna agencija za raziskovalno dejavnost Republike
+                    Slovenije iz državnega proračuna.</authority>
                 <availability>
                     <p xml:lang="sl">Avtorske pravice za besedilo te izdaje določa licenca CC
                         BY-ND-NC 1.0: <ref
@@ -69,6 +75,10 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
+                <change>
+                    <date>2019-08-19</date>
+                    <name>Luka Vidmar</name> Dodal novo ali izpopolnjeno gradivo v zbirki
+                    podatkov.</change>
                 <change>
                     <date>2019-08-11</date>
                     <name>Andrej Pančur</name> Odstranil nepotrebne hi, označil strukturo TEI
@@ -2298,7 +2308,7 @@
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Luther-Biblia">
                     <head>Martin Luther, Biblia, das ist: die gantze Heylige Schrifft </head>
                     <p>
                         <hi style="font-size:12pt">Po pravilih rimskega indeksa protestantski
@@ -2314,7 +2324,7 @@
                             pastoralnih opravilih v ljudskem jeziku, ki je bil ponekod nemški (na
                             primer v Mariboru in na Ptuju).</hi>
                     </p>
-                    <div>
+                    <div xml:id="Luther-1564">
                         <head>Biblia, das ist: die gantze Heylige Schrifft. Franckfurt, 1564.
                             (Ljubljana, Semeniška knjižnica, A IX 1 č)</head>
                         <p>
@@ -2328,15 +2338,12 @@
                                 prevode Svetega pisma – če ni bilo na voljo dovoljenih katoliških,
                                 so uporabljali protestantske.</hi>
                         </p>
-                        <p>
-                            <graphic n="10029" width="16.002cm" height="21.336cm"
-                                url="media/image29.jpeg" rend="inline">
-                                <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\23.JPG</desc>
-                            </graphic>
-                        </p>
+                        <figure xml:id="prepovedane-figure-28">
+                            <graphic url="Luther-1564.jpg"/>
+                        </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Luther-Supputatio">
                     <head>Martin Luther, Supputatio annorum mundi</head>
                     <p>
                         <hi style="font-size:12pt">Martin Luther (1483‒1546) je bil uvrščen v prvi
@@ -2354,7 +2361,7 @@
                             osebnosti. Na koncu je prazen prostor za kronologijo do leta 1600,
                             namenjen vnosom bralca knjige.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Luther-1541">
                         <head>Supputatio annorum mundi D. M. Luther. Wittembergae, 1541. (Ljubljana,
                             Narodna in univerzitetna knjižnica, GS 240 )</head>
                         <p>
@@ -2369,19 +2376,12 @@
                                 licejsko knjižnico leta 1798 kot del gornjegrajske škofijske
                                 knjižnice.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image30.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-29">
+                            <graphic url="Luther-1541.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Machiavelli-Dell_arte">
                     <head>Niccolò Machiavelli, Dell'arte della guerra</head>
                     <p>
                         <hi style="font-size:12pt">Delo</hi>
@@ -2394,7 +2394,7 @@
                             izdajah, in sicer v italijanščini, francoščini, angleščini, nemščini in
                             latinščini, upoštevali pa so ga še v 17. in 18. stoletju.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Machiavelli-1550">
                         <head>Libro dell'arte della guerra di Nicolo Machiavelli. In Vinegia, 1550.
                             (Ljubljana, Narodna in univerzitetna knjižnica, GS 3086)</head>
                         <p>
@@ -2407,17 +2407,11 @@
                                 Kranjskem so bila sicer razširjena prav vsa Machiavellijeva
                                 dela.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10031" width="16.002cm" height="24.77868888888889cm"
-                                    url="media/image31.jpeg" rend="inline">
-                                    <desc>E:\Luka_materiali\Fotke\Niccolo Machiavelli
-                                        Historie_sig_3086_2.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-30">
+                            <graphic url="Machiavelli-1550.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Machiavelli-1623">
                         <head>Kriegs Kunst Nicolai Machiavelli. Mümpelgardt, 1623. (Zagreb,
                             Metropolitana, M 12152–8°) </head>
                         <p>
@@ -2431,7 +2425,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Machiavelli-Il_Principe">
                     <head>Niccolò Machiavelli, Il Principe</head>
                     <p>
                         <hi style="font-size:12pt">Politični traktat Niccolòja Machiavellija
@@ -2451,7 +2445,7 @@
                         <hi style="font-size:12pt">. V deželah, poseljenih (tudi) s Slovenci, je
                             bilo delo med najbolj iskanimi in branimi prepovedanimi. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Machiavelli-1686">
                         <head>Nicolai Machiavelli Princeps. Cum Animadversionibus Politicis Hermanni
                             Conringii. Helmaestadi, 1686. (Ljubljana, Semeniška knjižnica, R II 4
                             r)</head>
@@ -2467,7 +2461,7 @@
                                 leta 1704 oziroma dokončanju knjižnične dvorane 1725.</hi>
                         </p>
                     </div>
-                    <div>
+                    <div xml:id="Machiavelli-1684">
                         <head>Le Prince de Nicolas Machiavel, Citoien et Secretaire de Florence.
                             Traduit &amp; Commenté par A. N. Amelot, Sieur de la Houssaie‎.
                             Amsterdam, 1684. (Ljubljana, Semeniška knjižnica, neohranjeno)</head>
@@ -2478,14 +2472,14 @@
                                 politični pisec Nicolas Amelot de la Houssaye, ki je bil tudi sam z
                                 več deli uvrščen na </hi>
                             <hi rend="italic" style="font-size:12pt">Index librorum
-                                prohibitorum</hi>
-                            <hi style="font-size:12pt">. Delo je v Semeniško knjižnico prišlo pred
+                                prohibitorum.</hi>
+                            <hi style="font-size:12pt"> Delo je v Semeniško knjižnico prišlo pred
                                 sredino 18. stoletja, okoli leta 1800 pa so ga iz nje izločili, ker
                                 je bilo na voljo več italijanskih verzij istega dela. </hi>
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Malleus">
                     <head>Malleus maleficarum</head>
                     <p>
                         <hi rend="italic" style="font-size:12pt">Malleus maleficarum</hi>
@@ -2500,7 +2494,7 @@
                             temu pa je delo v zmanjšanem obsegu še krožilo med strokovnjaki za
                             pravo. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Malleus-1588">
                         <head>Tomus secundus malleorum quorundam maleficarum. Francoforti, 1588.
                             (Kamnik, Frančiškanski samostan Kamnik, brez signature) </head>
                         <p>
@@ -2510,18 +2504,13 @@
                                 17. stoletja, je bila knjiga last Ludvika Radiča, doktorja obojega
                                 prava. Tovrstne knjige so namreč potrebovali predvsem duhovniki in
                                 pravniki, ki so se srečevali oziroma bi se lahko srečevali z
-                                omenjenim pojavom in z njo povezano sodno prakso.</hi>
+                                omenjenim pojavom in s tem povezano sodno prakso.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10032" width="16cm" height="12cm"
-                                    url="media/image32.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3637.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-31">
+                            <graphic url="Malleus-1588.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Malleus-1669">
                         <head>Malleus maleficarum, maleficas et earum haeresim framea conterens.
                             Lugduni, 1669. (Ljubljana, Semeniška knjižnica, M V 7 r).</head>
                         <p>
@@ -2536,7 +2525,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Melanchthon-Annotationes">
                     <head>Philipp Melanchthon, Annotationes in Epistolam Pauli ad Romanos unam et ad
                         Corinthios duas</head>
                     <p>
@@ -2553,7 +2542,7 @@
                             ponatisnjena že v prvem desetletju po prvi izdaji. Leta 1527 so jih
                             prevedli v nemški jezik.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Melanchthon-1524">
                         <head>Annotationes Philippi Melanchthonis in Epistolam Pauli ad Romanos unam
                             et ad Corinthios duas. Argentorati, 1524. (Ljubljana, Narodna in
                             univerzitetna knjižnica, GS 10800)</head>
@@ -2569,17 +2558,11 @@
                                 haereti[cus]«. </hi>
                         </p>
                         <figure>
-                            <p>
-                                <graphic n="10033" width="16.002cm" height="24.967008333333332cm"
-                                    url="media/image33.jpeg" rend="inline">
-                                    <desc>E:\Luka_materiali\Fotke\Philipp Melanchthon
-                                        Annotationes_sig_10800_1.JPG</desc>
-                                </graphic>
-                            </p>
+                            <graphic url="Melanchthon-1524.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Melanchthon-Erotemata">
                     <head>Philipp Melanchthon, Erotemata dialectices</head>
                     <p>
                         <hi style="font-size:12pt">Philipp Melanchthon je kot dolgoletni profesor na
@@ -2592,7 +2575,7 @@
                             dialektike. Učbenik je zaradi slovesa avtorja in kvalitetne vsebine
                             doživel vrsto ponatisov po Evropi.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Melanchthon-1553">
                         <head>Erotemata dialectices edita a Philippo Melanth. Wittebergae, 1553.
                             (Ljubljana, Semeniška knjižnica, Y VIII 9 č)</head>
                         <p>
@@ -2607,7 +2590,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Melanchthon-Liber_de_anima">
                     <head>Philipp Melanchthon, Liber de anima</head>
                     <p>
                         <hi style="font-size:12pt">Melanchthonova razprava, napisana proti koncu
@@ -2616,7 +2599,7 @@
                             dognanja o anatomiji človeškega telesa flamskega zdravnika Andreasa
                             Vesalia. Delo je takoj zaslovelo in doživelo številne ponatise.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Melanchthon-1554">
                         <head>Liber de anima recognitus ab autore Philip. Melanth. Wittebergae,
                             1554. (Ljubljana, Narodna in univerzitetna knjižnica, GS 5845)</head>
                         <p>
@@ -2634,19 +2617,12 @@
                                 Labacensis«. Od tam je leta 1798 prišla v licejsko knjižnico.</hi>
                         </p>
                         <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image34.emf</hi>
-                                </note>
-                            </p>
+                            <graphic url="Melanchthon-1554.jpg"/>
                         </figure>
                     </div>
                 </div>
                 <pb/>
-                <div>
+                <div xml:id="Menghi-Flagellum">
                     <head>Girolamo Menghi, Flagellum daemonum</head>
                     <p>
                         <hi rend="italic" style="font-size:12pt">Bič demonov</hi>
@@ -2661,27 +2637,22 @@
                             indeks. Toda zaradi priljubljenosti so ga marsikje uporabljali še
                             desetletja. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Menghi-1630">
                         <head>Flagellum daemonum auctore R. P. F. Hieronymo Mengo. Venetiis, 1630.
                             (Nazarje, Frančiškanski samostan Nazarje, 4 A 81)</head>
                         <p>
                             <hi style="font-size:12pt">Izvod </hi>
                             <hi rend="italic" style="font-size:12pt">Biča demonov</hi>
-                            <hi style="font-size:12pt">iz beneške izdaje iz leta 1630 je bil last
+                            <hi style="font-size:12pt"> beneške izdaje iz leta 1630 je bil last
                                 frančiškanskega samostana Nazarje, v katerem je še sedaj. Na
                                 naslovni strani je označeno lastništvo: »Con[ven]tus Nazareth[ani]«.
                                 Knjiga kaže znamenja obrabe in pogostega branja.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10035" width="16.002cm" height="23.99488611111111cm"
-                                    url="media/image35.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3665.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-32">
+                            <graphic url="Menghi-1630.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Menghi-1683">
                         <head>Flagellum daemonum auctore R. P. F. Hieronymo Mengo. Venetiis, 1683.
                             (Ljubljana, Narodna in univerzitetna knjižnica, GS 13806)</head>
                         <p>
@@ -2695,19 +2666,12 @@
                                 knjižnici kartuzije Bistra, po njeni razpustitvi leta 1782 pa je
                                 prišel v Licejsko knjižnico v Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image36.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-33">
+                            <graphic url="Menghi-1683.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Milton-Paradise">
                     <head>John Milton, Paradise lost</head>
                     <p>
                         <hi rend="italic" style="font-size:12pt">Izgubljeni raj</hi>
@@ -2717,7 +2681,7 @@
                             interpretacij, na primer kompleksnega značaja Satana, neskladna z nauki
                             katoliške Cerkve in zato postavljena na rimski indeks.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Milton-1757">
                         <head>Il Paradiso perduto di Giovanni Milton. In Fiorenza, 1757. (Kamnik,
                             Frančiškanski samostan Kamnik, brez signature) </head>
                         <p>
@@ -2730,17 +2694,12 @@
                                 izdaje iz leta 1757, ki je najpozneje po njegovi smrti ostal v
                                 samostanski knjižnici.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10037" width="16.002cm" height="29.5625cm"
-                                    url="media/image37.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3638.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-34">
+                            <graphic url="Milton-1757.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Montaigne-Essais">
                     <head>Michel de Montaigne, Essais</head>
                     <p>
                         <hi rend="italic" style="font-size:12pt">Eseji</hi>
@@ -2752,7 +2711,7 @@
                             jih je kot moralno dvomljive prepovedoval avstrijski državni
                             indeks.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Montaigne-1745">
                         <head>Essais de Michel Signeur de Montaigne. A Londres, 1745. (Ljubljana,
                             Narodna in univerzitetna knjižnica, GS 2286)</head>
                         <p>
@@ -2767,17 +2726,11 @@
                                 stoletja kupil neznani bralec s Kranjskega, pozneje pa so prišli v
                                 Licejsko knjižnico v Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10038" width="16.002cm" height="26.785811111111112cm"
-                                    url="media/image38.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\ŠKERPIN\PREPOVEDANE\Michel
-                                        de Montaigne Essais_sig_2286-1.jpg</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-35">
+                            <graphic url="Montaigne-1745.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Montaigne-1797">
                         <head>Michael Montaigne's Gedanken und Meinungen. Wien und Prag, 1797.
                             (Ljubljana, Frančiškanski samostan Ljubljana – Tromostovje, brez
                             signature)</head>
@@ -2793,17 +2746,12 @@
                                 zavezujoč za habsburško monarhijo, je še vedno formalno veljal za
                                 Cerkev, tudi redovne skupnosti.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10039" width="16.002cm" height="13.096705555555555cm"
-                                    url="media/image39.png" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\IMG_3489.png</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-36">
+                            <graphic url="Montaigne-1797.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Montesquieu-esprit">
                     <head>Montesquieu, De lʼesprit des loix</head>
                     <p>
                         <hi style="font-size:12pt">Montesquieujevo politično delo </hi>
@@ -2816,7 +2764,7 @@
                             bilo hitro ponatisnjeno in prevedeno v druge jezike. Tako v izvirniku
                             kakor v nemškem prevodu je prišlo tudi na dunajski indeks.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Montesquieu-1772">
                         <head>Oeuvres de Monsieur de Montesquieu. A Londres, 1772. (Ljubljana,
                             Narodna in univerzitetna knjižnica, GS 2269)</head>
                         <p>
@@ -2827,22 +2775,15 @@
                             <hi rend="italic" style="font-size:12pt">Perzijska pisma</hi>
                             <hi style="font-size:12pt">. Nekoč je bila v lasti barona Žige Zoisa, ki
                                 je zbiral temeljna dela evropske razsvetljenske književnosti, pri
-                                tem pa se ni niti najmanj oziral niti na rimski niti na dunajski
-                                indeks. </hi>
+                                tem pa se ni niti najmanj oziral ne na rimski ne na dunajski indeks.
+                            </hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image40.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-37">
+                            <graphic url="Montesquieu-1772.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Musculus-Opera">
                     <head>Wolfgang Musculus, Opera D. Basilii Magni</head>
                     <p>
                         <hi style="font-size:12pt">Komentirano izdajo del sv. Bazilija Velikega je
@@ -2854,7 +2795,7 @@
                             prepovedana tudi razmeroma neproblematična izdaja del sv. Bazilija
                             Velikega.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Musculus-1540">
                         <head>Opera D. Basilii Magni collata per Wolfgangum Musculum. Basileae,
                             1540. (Ljubljana, Semeniška knjižnica, D IV 3 r)</head>
                         <p>
@@ -2871,17 +2812,12 @@
                                 V tej pošiljki je bila Musculova izdaja, ki je nato sredi 18.
                                 stoletja z zamenjavo prišla v Semeniško knjižnico v Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10041" width="16.002cm" height="21.336cm"
-                                    url="media/image41.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\9.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-38">
+                            <graphic url="Musculus-1540.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Ovidij-Ars">
                     <head>Ovidij, Ars amatoria</head>
                     <p>
                         <hi style="font-size:12pt">Erotična besedila je obravnavalo sedmo
@@ -2893,7 +2829,7 @@
                         <hi style="font-size:12pt">, ki je ostala priljubljeno berilo (načelno
                             odraslih) v zgodnjem novem veku. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Ovidij-1689">
                         <head>Pub. Ovidii Nasonis operum tomus primus. Lugduni, 1689. (Kamnik,
                             Frančiškanski samostan Kamnik, brez signature)</head>
                         <p>
@@ -2906,18 +2842,12 @@
                             <hi style="font-size:12pt">. Po pravilih indeksa do tovrstnih knjig niso
                                 mogli priti bogoslovci, torej frančiškanski novici.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10042" width="14.829513888888888cm"
-                                    height="10.741894444444444cm" url="media/image42.jpeg"
-                                    rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\126___09\IMG_3620.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-39">
+                            <graphic url="Ovidij-1689.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Palazzi-Metamorfosi">
                     <head>Giovanni Palazzi, Metamorfosi di P. Ovidio N.</head>
                     <p>
                         <hi style="font-size:12pt">Benečan Giovanni Palazzi je pred letom 1674 pod
@@ -2929,7 +2859,7 @@
                             gola telesa in celo spolne akte, je bila knjiga prepovedana. Očitno pa
                             je bila prodajna uspešnica, saj je bila večkrat ponatisnjena.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Palazzi-1674">
                         <head>Metamorfosi di P. Ovidio N. In Venetia, 1674. (Ljubljana, Semeniška
                             knjižnica, neohranjeno)</head>
                         <p>
@@ -2945,7 +2875,7 @@
                                 bogoslovcev in stolnih duhovnikov.</hi>
                         </p>
                     </div>
-                    <div>
+                    <div xml:id="Palazzi-1688">
                         <head>Ovidio istorico, politico, morale. In Venetia, 1688. (Zagreb,
                             Metropolitana, M 4118–8°)</head>
                         <p>
@@ -2959,7 +2889,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Pallavicino-Le_bellezze">
                     <head>Ferrante Pallavicino, Le bellezze dellʼanima</head>
                     <p>
                         <hi style="font-size:12pt">Italijanski pisatelj Ferrante Pallavicino
@@ -2977,7 +2907,7 @@
                         <hi style="font-size:12pt">, ki je opolzko parodiralo Visoko pesem in je
                             prvič izšlo leta 1639 v Genovi.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Pallavicino-1640">
                         <head>Le bellezze dellʼanima di Ferrante Pallavicino. In Venetia, 1640.
                             (Ljubljana, Narodna in univerzitetna knjižnica, GS 15152)</head>
                         <p>
@@ -2990,18 +2920,12 @@
                             <hi style="font-size:12pt">, natisnjeno leta 1640 v Benetkah, kupil prav
                                 tam.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10043" width="16.002cm" height="29.64998888888889cm"
-                                    url="media/image43.jpeg" rend="inline">
-                                    <desc>F:\Luka_materiali\Fotke\Pallavicino Le bellezze
-                                        dell'anima_sig_15152.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-40">
+                            <graphic url="Pallavicino-1640.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Pallavicino-Sansone">
                     <head>Ferrante Pallavicino, Il Sansone </head>
                     <p>
                         <hi style="font-size:12pt">Pallavicino je za roman</hi>
@@ -3013,7 +2937,7 @@
                             razgrabili takoj po natisu, in jezila rimsko kurijo, nesprejemljiva pa
                             ostajala še za cenzuro pod Marijo Terezijo.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Pallavicino-1654">
                         <head>Il Sansone di Ferrante Pallavicino. In Venetia, 1654. (Ljubljana,
                             Narodna in univerzitetna knjižnica, GS 24991)</head>
                         <p>
@@ -3025,18 +2949,11 @@
                                 je bil po doslej zbranih podatkih prvi od mnogih znanih bralcev
                                 Pallavicinovih del na Slovenskem v 17. in 18. stoletju.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image44.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-41">
+                            <graphic url="Pallavicino-1654.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Pallavicino-1657">
                         <head>Geteutschter Samson Des Herrn Ferrante Pallavicini. Nürnberg, 1657.
                             (Zagreb, Metropolitana M 9348–8°)</head>
                         <p>
@@ -3053,7 +2970,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Paracelsus-Septem">
                     <head>Paracelsus, Septem defensiones adversus aemulos suos </head>
                     <p>
                         <hi style="font-size:12pt">Dela zdravnika, astrologa in alkimista Paracelsa
@@ -3071,7 +2988,7 @@
                             najbolj bran prepovedani avtor s področja medicine na Slovenskem v
                             zgodnjem novem veku.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Paracelsus-1573">
                         <head>Avreoli Theophrasti Paracelsi Septem defensiones adversus aemulos
                             suos. Coloniae Agrippinae, 1573. (Ljubljana, Narodna in univerzitetna
                             knjižnica, GS 11604)</head>
@@ -3092,19 +3009,12 @@
                                 postojanke pod cesarjem Jožefom II. pa je knjiga leta 1786 prišla v
                                 Licejsko knjižnico v Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image45.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-42">
+                            <graphic url="Paracelsus-1573.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Pascal-Lettres">
                     <head>Blaise Pascal, Lettres provinciales</head>
                     <p>
                         <hi style="font-size:12pt">Delo </hi>
@@ -3118,7 +3028,7 @@
                             stoletju, ko se je tako v Cerkvi kakor zunaj nje krepilo protijezuitsko
                             razpoloženje.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Pascal-1700a">
                         <head>Ludovici Montaltii Litterae provinciales. Coloniae, 1700. (Ljubljana,
                             Frančiškanski samostan Ljubljana ‒ Center, brez signature, Škerpinov
                             izvod)</head>
@@ -3132,16 +3042,11 @@
                                 bibliofil p. Žiga Škerpin, ki se je povzpel do časti generalnega
                                 definitorja in prokuratorja reda.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10046" width="11.84cm" height="6.67cm"
-                                    url="media/image46.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\125___08\IMG_3443.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-43">
+                            <graphic url="Pascal-1700a.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Pascal-1700b">
                         <head>Ludovici Montaltii Litterae provinciales. Coloniae, 1700. (Ljubljana,
                             Frančiškanski samostan Ljubljana ‒ Center, brez signature, Pacassijev
                             izvod)</head>
@@ -3154,16 +3059,11 @@
                                 namreč ne brez občudovanja zapisal, da je to delo »rarus et
                                 singularis« − nenavadno in izjemno.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10047" width="16.002cm" height="25.818108333333335cm"
-                                    url="media/image47.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\SIMPOZIJI\FRANČIŠEK\FOTO\125___08\IMG_3419.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-44">
+                            <graphic url="Pascal-1700b.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Pascal-1739">
                         <head>Les provinciales par Louis de Montalte. A Cologne, 1739. (Ljubljana,
                             Narodna in univerzitetna knjižnica, GS 15512)</head>
                         <p>
@@ -3174,19 +3074,12 @@
                                 ekslibrisom, po smrti pa jo je očitno zapustil Licejski knjižnici v
                                 Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image48.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-45">
+                            <graphic url="Pascal-1739.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Pelzhoffer-Arcanorum">
                     <head>Franc Albert Pelzhoffer, Arcanorum status</head>
                     <p>
                         <hi style="font-size:12pt">Franc Albert Pelzhoffer baron Schönau (okrog
@@ -3205,7 +3098,7 @@
                             indeks je leta 1776 prepovedal drugo frankfurtsko izdajo iz let 1724 in
                             1725.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Pelzhoffer-1709">
                         <head>Arcanorum status authore Francisco Alberto Pelzhoffer. Labaci 1709.
                             (Ljubljana, Narodna in univerzitetna knjižnica, GS I 6998/I-II)</head>
                         <p>
@@ -3216,19 +3109,12 @@
                                 avguštinca Inocenca Rebeka, ki je na naslovni strani pustil svoj
                                 lastnoročni ekslibris.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image49.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-46">
+                            <graphic url="Pelzhoffer-1709.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Praetorius-Tuba_pacis">
                     <head>Matthäus Prätorius, Tuba pacis ad universas dissidentes in occidente
                         ecclesias</head>
                     <p>
@@ -3242,7 +3128,7 @@
                             1711 ponovno natisnjeno, vendar je bilo zaradi nepredstavljivosti
                             združitve uvrščeno na rimski indeks.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Praetorius-1685">
                         <head>Tuba pacis ad universas dissidentes in occidente ecclesias per
                             Matthaeum Praetorium. Coloniae, 1685. (Ljubljana, Semeniška knjižnica, M
                             IV 7 r)</head>
@@ -3258,17 +3144,12 @@
                                 Knjiga je po njegovi smrti prišla v Semeniško knjižnico, katere prvi
                                 soustanovitelj je bil.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10050" width="16.002cm" height="21.336cm"
-                                    url="media/image50.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\17.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-47">
+                            <graphic url="Praetorius-1685.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Rhenanus-Opera">
                     <head>Beatus Rhenanus, Opera Q. Septimii Florentis Tertulliani</head>
                     <p>
                         <hi style="font-size:12pt">Beatus Rhenanus (1485‒1547) je bil nemški
@@ -3278,7 +3159,7 @@
                             pripravil razkošno komentirano izdajo Tertulijanovih del, ki je izšla
                             leta 1521. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Rhenanus-1521">
                         <head>Opera Q. Septimii Florentis Tertulliani per Beatum Rhenanum. Basileae,
                             1521. (Ljubljana, Semeniška knjižnica, E III 15 r)</head>
                         <p>
@@ -3292,17 +3173,12 @@
                                 cesarstvu po koncu tridesetletne vojne občudovala predvsem
                                 antikviteto ali luksuzni predmet.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10051" width="16.002cm" height="21.336cm"
-                                    url="media/image51.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\11.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-48">
+                            <graphic url="Rhenanus-1521.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Rousseau-contrat">
                     <head>Jean-Jacques Rousseau, Du contrat social</head>
                     <p>
                         <hi style="font-size:12pt">Rousseaujevo delo </hi>
@@ -3317,7 +3193,7 @@
                         <hi rend="italic" style="font-size:12pt">Émile </hi>
                         <hi style="font-size:12pt">je bila celo javno zažgana v Ženevi.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Rousseau-1775">
                         <head>Collection complete des oevres de J. J. Rousseau. A Neuchatel, 1775.
                             (Ljubljana, Narodna in univerzitetna knjižnica, GS I 2268/I‒XI)</head>
                         <p>
@@ -3332,19 +3208,12 @@
                                 so zbrana dela skupaj z drugimi knjigami leta 1787 prišla v Licejsko
                                 knjižnico.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image52.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-49">
+                            <graphic url="Rousseau-1775.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Sansovino-Cento_novelle">
                     <head>Francesco Sansovino, Cento novelle scelte da piu nobili scrittori</head>
                     <p>
                         <hi style="font-size:12pt">Po VII. pravilu rimskega indeksa, ki je
@@ -3357,7 +3226,7 @@
                             (1521‒1586), ki so bile večkrat ponatisnjene, tudi s številnimi
                             renesančnimi lesorezi. </hi>
                     </p>
-                    <div>
+                    <div xml:id="Sansovino-1603">
                         <head>Cento novelle scelte da piu nobili scrittori di Francesco Sansovino.
                             Venetia, 1603. (Ljubljana, Semeniška knjižnica, V II 13)</head>
                         <p>
@@ -3372,7 +3241,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Schoenleben-Palma_virginea">
                     <head>Janez Ludvik Schönleben, Palma virginea sive Deiparae Virginis Mariae de
                         adversariis suae immaculatae conceptionis victoriae omnium seculorum aere
                         christianae </head>
@@ -3393,7 +3262,7 @@
                         <hi style="font-size:12pt">. Schönleben je tako po Trubarju postal drugi
                             Slovenec, ki je prišel na rimski indeks.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Schoenleben-1671a">
                         <head>Joannis Ludovici Schönleben Palma virginea sive Deiparae Virginis
                             Mariae de adversariis suae immaculatae conceptionis victoriae omnium
                             seculorum aere christianae. Salisburgi, 1671. (Ljubljana, Semeniška
@@ -3409,18 +3278,11 @@
                                 stric kot goreč zagovornik uradnega priznanja resnice o Marijinem
                                 brezmadežnem spočetju.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10053" width="13.26116388888889cm"
-                                    height="18.988633333333333cm" url="media/image53.jpeg"
-                                    rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\APES ACADEMICAE\DEŽELAK
-                                        TROJAR\KNJIGA\FOTO\SLIKA_13.jpg</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-50">
+                            <graphic url="Schoenleben-1671a.jpg"/>
                         </figure>
                     </div>
-                    <div>
+                    <div xml:id="Schoenleben-1671b">
                         <head>Joannis Ludovici Schönleben Palma virginea sive Deiparae Virginis
                             Mariae de adversariis suae immaculatae conceptionis victoriae omnium
                             seculorum aere christianae. Salisburgi, 1671. (Škofja Loka, Kapucinski
@@ -3437,7 +3299,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Schoenleben-De_officio">
                     <head>Janez Ludvik Schönleben, De officio immaculatae conceptionis
                         Deiparae</head>
                     <p>
@@ -3455,7 +3317,7 @@
                         <hi rend="italic" style="font-size:12pt">Indeks prepovedanih knjig </hi>
                         <hi style="font-size:12pt">uvrščena 14. aprila 1682.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Schoenleben-1680">
                         <head>De officio immaculatae conceptionis Deiparae Sigismundi à S. Maria.
                             Altstedii, 1680. (Ljubljana, Narodna in univerzitetna knjižnica, GS
                             21699)</head>
@@ -3465,19 +3327,12 @@
                                 provenience, vendar najbrž izvira iz neke baročne cerkvene ali
                                 zasebne knjižnice na Kranjskem. </hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image54.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-51">
+                            <graphic url="Schoenleben-1680.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Sleidanus-De_statu">
                     <head>Johannes Sleidanus, De statu religionis et reipublicae Carolo V. Caesare
                         commentarii</head>
                     <p>
@@ -3492,7 +3347,7 @@
                             ki ga je uvrstila na indeks. Kljub vsemu je delo postalo klasično,
                             poznal in povzemal ga je tudi Trubar.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Sleidanus-1561">
                         <head>Ioan. Sleidani De statu religionis et reipublicae Carolo V. Caesare
                             commentarii. S. l., 1561. (Ljubljana, Semeniška knjižnica, s IV 14
                             r)</head>
@@ -3508,17 +3363,12 @@
                                 ljubljanskega škofa leta 1580 jo je na Goriškem dobil v dar Janez
                                 Tavčar. Pozneje je prišla v Semeniško knjižnico v Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10055" width="16.002cm" height="21.336cm"
-                                    url="media/image55.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\3.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-52">
+                            <graphic url="Sleidanus-1561.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Pasquini-Staats-Phantasien">
                     <head>Des Träumenden Pasquini kluger Staats-Phantasien</head>
                     <p>
                         <hi style="font-size:12pt">Na Slovensko so v 17. in 18. stoletju kljub
@@ -3537,10 +3387,9 @@
                             prepovedani s pravili indeksa. Izrecno pa so list prepovedali avstrijski
                             cenzorji, in sicer še leta 1762.</hi>
                     </p>
-                    <div>
-                        <head>Des Träumenden Pasquini kluger Staats-Phantasien<hi rend="italic"
-                                >.</hi> Freyburg, 1704. (Ljubljana, Semeniška knjižnica v Ljubljani,
-                            s III 14 r)</head>
+                    <div xml:id="Pasquini-1704">
+                        <head>Des Träumenden Pasquini kluger Staats-Phantasien. Freyburg, 1704.
+                            (Ljubljana, Semeniška knjižnica v Ljubljani, s III 14 r)</head>
                         <p>
                             <hi style="font-size:12pt">Zdravnik in operoz Marko Grbec, fizik
                                 kranjskih deželnih stanov, se je očitno zabaval ob branju satiričnih
@@ -3552,7 +3401,7 @@
                         </p>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Trubar-Articuli">
                     <head>Primož Trubar, Articuli oli deili, te prave stare vere kerszhanske</head>
                     <p>
                         <hi style="font-size:12pt">Primož Trubar (okrog 1508–1586) je bil edini
@@ -3569,7 +3418,7 @@
                         <hi style="font-size:12pt">so istega leta izšli tudi v glagolici in
                             cirilici.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Trubar-1562">
                         <head>Articuli oli deili, te prave stare vere kerszhanske Primosha Truberia.
                             V Tibingi, 1562. (Ljubljana, Narodna in univerzitetna knjižnica, R
                             18290)</head>
@@ -3580,19 +3429,12 @@
                                 Licejsko, današnjo Narodno in univerzitetno knjižnico v
                                 Ljubljani.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <hi style="color:red; font-size: 14pt; font-weight:bold;"
-                                    rend="ERROR">�</hi>
-                                <note place="margin" type="conversion" resp="#teitodocx">
-                                    <hi rend="docxError">unable to handle picture of Windows format
-                                        media/image56.emf</hi>
-                                </note>
-                            </p>
+                        <figure xml:id="prepovedane-figure-53">
+                            <graphic url="Trubar-1562.jpg"/>
                         </figure>
                     </div>
                 </div>
-                <div>
+                <div xml:id="Vergerij-inquisitori">
                     <head>Peter Pavel Vergerij, A gl’ inquisitori che sono per l’Italia</head>
                     <p>
                         <hi style="font-size:12pt">Peter Pavel Vergerij, nekdanji koprski škof, ki
@@ -3607,7 +3449,7 @@
                             prepovedanih knjig iz leta 1559, izdan pod papežem Pavlom IV., in
                             inkvizicijo, odgovorno za to izdajo.</hi>
                     </p>
-                    <div>
+                    <div xml:id="Vergerij-1559">
                         <head>A gl’ inquisitori che sono per l’Italia. S. l., 1559. (Ljubljana,
                             Semeniška knjižnica, u II 11 r)</head>
                         <p>
@@ -3620,13 +3462,8 @@
                             <hi style="font-size:12pt"> iz leta 1559, ki omenja Primoža
                                 Trubarja.</hi>
                         </p>
-                        <figure>
-                            <p>
-                                <graphic n="10057" width="16.002cm" height="21.336cm"
-                                    url="media/image57.jpeg" rend="inline">
-                                    <desc>C:\Users\lvidmar\Desktop\LUKA\PROTESTANTIKE\13.JPG</desc>
-                                </graphic>
-                            </p>
+                        <figure xml:id="prepovedane-figure-54">
+                            <graphic url="Vergerij-1559.jpg"/>
                         </figure>
                     </div>
                 </div>
