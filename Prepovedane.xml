@@ -195,8 +195,8 @@
                   (1945‒1991)’, <hi rend="italic">SLO: časi, kraji, ljudje</hi>, 7 (2015),
                   60‒63.</note>
             </p>
-            <div>
-               <head>1 Knjižna cenzura v habsburški monarhiji v zgodnjem novem veku</head>
+            <div type="chapter" xml:id="ch01" n="1">
+               <head>Knjižna cenzura v habsburški monarhiji v zgodnjem novem veku</head>
                <p>Na začetku zgodnjega novega veka je postala glavni predmet cenzure v Evropi
                   tiskana knjiga: izum tiska s premičnimi črkami je namreč omogočil do tedaj
                   nepredstavljivo obsežno izmenjavo informacij in idej. Nadzor oblasti nad tiskom in
@@ -320,8 +320,8 @@
                   se je začela cenzura v habsburški monarhiji kakor drugod po Evropi spet
                   zaostrovati. </p>
             </div>
-            <div>
-               <head>2 Rimski in dunajski indeks</head>
+            <div type="chapter" xml:id="ch02" n="2">
+               <head>Rimski in dunajski indeks</head>
                <p>Indeks je bil glavno sredstvo retroaktivne cenzure katoliške Cerkve, saj je zbiral
                   naslove že natisnjenih spornih del. Izhajati je začel leta 1559 pod papežem Pavlom
                   IV. v Rimu, leta 1564 pa je tridentinski koncil potrdil novo verzijo z naslovom
@@ -418,8 +418,8 @@
                         librorum prohibitorum</hi>, Romae 1764.</note>
                </p>
             </div>
-            <div>
-               <head>3 Avtorji prvega razreda</head>
+            <div type="chapter" xml:id="ch03" n="3">
+               <head>Avtorji prvega razreda</head>
                <p>Tridentinski <hi rend="italic">Index librorum prohibitorum</hi> iz leta 1564 je
                   uvedel kategorijo »auctores primae classis«, ki je zajemala v perspektivi
                   katoliške Cerkve najnevarnejše avtorje. Vsa dela avtorjev, ki so dobili to oznako,
@@ -512,8 +512,8 @@
                      (2015), 100‒102.</note>
                </p>
             </div>
-            <div>
-               <head>4 Slovenca na indeksu</head>
+            <div type="chapter" xml:id="ch04" n="4">
+               <head>Slovenca na indeksu</head>
                <p>Na rimski indeks sta v zgodnjem novem veku prišla dva Slovenca: Primož Trubar, ki
                   je bil uvrščen v kategorijo avtorjev prvega razreda, in Janez Ludvik Schönleben,
                   ki ga je doletela prepoved dveh oziroma treh del. Indeks ni omenjal nobenega
@@ -614,8 +614,8 @@
                         Sanctae Crucis</hi>, 1749.</note>
                </p>
             </div>
-            <div>
-               <head>5 Politični filozofi in pamfletisti</head>
+            <div type="chapter" xml:id="ch05" n="5">
+               <head>Politični filozofi in pamfletisti</head>
                <p>Na Slovenskem so začeli precej pozneje kot sporna protestantska dela brati
                   renesančno politično filozofijo, ki je prišla v konflikt z dotedanjimi družbenimi
                   in etičnimi modeli.<note place="foot" xml:id="ftn50" n="50"> Prim. Peter N.
@@ -707,8 +707,8 @@
                   univerzalizmu prizadevale za pregled nad celotnim, tudi prepovedanim človeškim
                   znanjem. </p>
             </div>
-            <div>
-               <head>6 Razsvetljenci </head>
+            <div type="chapter" xml:id="ch06" n="6">
+               <head>Razsvetljenci </head>
                <p>Razsvetljenska dela, velikokrat uvrščena tako na rimski kakor na dunajski indeks,
                   so ostala v cerkvenih knjižnicah na Slovenskem redka do konca 18. stoletja.
                   Nekoliko več jih je bilo na voljo v nekaterih zasebnih knjižnicah, vendar tudi
@@ -768,8 +768,8 @@
                      2268/I-XI. Gl. poglavje Sonje Svoljšak v tej monografiji, p. .</note>
                </p>
             </div>
-            <div>
-               <head>7 Psevdoznanost in znanost</head>
+            <div type="chapter" xml:id="ch07" n="7">
+               <head>Psevdoznanost in znanost</head>
                <p>Cerkvena in cesarska cenzura sta na rimski in dunajski indeks uvrstili tista dela,
                   ki so po njuni presoji širila znanje, nevarno za vero in moralo ljudi. Nekatera so
                   bila prepovedana zaradi okultizma in vraževerja (npr. knjige o prerokovanju),
@@ -842,8 +842,8 @@
                      1566.</note>
                </p>
             </div>
-            <div>
-               <head>8 Humanistična in leposlovna dela</head>
+            <div type="chapter" xml:id="ch08" n="8">
+               <head>Humanistična in leposlovna dela</head>
                <p>Temelj vsake evropske knjižnice v zgodnjem novem veku so bila kanonizirana dela
                   antičnih in humanističnih avtorjev, vendar jih je bilo nekaj uvrščenih na rimski
                   indeks. Sedmo tridentinsko pravilo je sicer prepovedovalo lascivne in obscene
@@ -954,8 +954,8 @@
                      (2016), pp. 59‒69.</note>
                </p>
             </div>
-            <div>
-               <head>9 Erotika</head>
+            <div type="chapter" xml:id="ch09" n="9">
+               <head>Erotika</head>
                <p>Prepovedana erotična literatura je začela v Notranjo Avstrijo pritekati v drugi
                   polovici 17. stoletja, večinoma iz Benetk in Francije. Za Janeza Gregorja
                   Dolničarja, ljubitelja beneške književnosti in umetnosti, je bila denimo zanimiva
@@ -1200,11 +1200,10 @@
                Wallstein, 2007), pp. 305‒330.</p>
             <p>Žvanut, Maja, ʻKnjižnice na Kranjskem v 16. stoletjuʼ, <hi rend="italic">Zgodovinski
                   časopis</hi>, 41.2 (1987), 277−283.</p>
-            <p/>
          </div>
          <div type="appendix" xml:id="zbirka">
             <head>Zbirka podatkov</head>
-            <div xml:id="Albertus-De_secretis">
+            <div type="data" xml:id="Albertus-De_secretis">
                <head>Albert Veliki (učenec), De secretis mulierum </head>
                <p>
                   <hi rend="italic">De secretis mulierum</hi> je srednjeveško delo, ki so ga napačno
@@ -1244,7 +1243,7 @@
                      (nobeden ni ohranjen).</p>
                </div>
             </div>
-            <div xml:id="Boccaccio-Il_Decamerone">
+            <div type="data" xml:id="Boccaccio-Il_Decamerone">
                <head>Giovanni Boccaccio, Il Decamerone</head>
                <p>Zbirko novel <hi rend="italic">Dekameron</hi> je italijanski renesančni pesnik in
                   pisatelj Giovanni Boccaccio (1313–1375) napisal okoli sredine 14. stoletja, prvič
@@ -1292,7 +1291,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Boccalini-La_bilancia">
+            <div type="data" xml:id="Boccalini-La_bilancia">
                <head>Traiano Boccalini, La bilancia politica</head>
                <p>Eden najvplivnejših političnih piscev pozne renesanse je bil Traiano Boccalini
                   (1556‒1613), ki je kakor njegov naslednik Ferrante Pallavicino bičal razvade
@@ -1312,7 +1311,7 @@
                      uradnih dovoljenj za branje tovrstnih knjig.</p>
                </div>
             </div>
-            <div xml:id="Bodin-De_republica">
+            <div type="data" xml:id="Bodin-De_republica">
                <head>Jean Bodin, De republica libri sex</head>
                <p>Najslavnejše delo francoskega političnega filozofa Jeana Bodina (1530–1596) <hi
                      rend="italic">De republica libri sex</hi>je prvič izšlo leta 1576 v Parizu v
@@ -1333,7 +1332,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Bretonne-Les_Contemporaines">
+            <div type="data" xml:id="Bretonne-Les_Contemporaines">
                <head>Nicolas Edme Rétif de la Bretonne, Les Contemporaines</head>
                <p>Francoski pisatelj Nicolas Edme Rétif de la Bretonne (1734–1806) je zaslovel kot
                   avtor erotičnih del, ki jih je začel pisati v šestdesetih letih 18. stoletja. Več
@@ -1358,7 +1357,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Calvin-Institutio">
+            <div type="data" xml:id="Calvin-Institutio">
                <head>Jean Calvin, Institutio christianae religionis</head>
                <p>Utemeljitelj kalvinizma Jean Calvin (1509–1564) je bil uvrščen v prvi razred
                   prepovedanih avtorjev, s čimer so bila samodejno prepovedana vsa njegova dela.
@@ -1383,7 +1382,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Castiglione-Il_Corteggiano">
+            <div type="data" xml:id="Castiglione-Il_Corteggiano">
                <head>Baldassarre Castiglione, Il Corteggiano</head>
                <p>Traktat o dvorski etiketi Baldassarreja Castiglioneja (1478‒1529) je prvič izšel
                   leta 1528 v Benetkah, nato pa do začetka 17. stoletja v več kot sto izdajah, tudi
@@ -1448,7 +1447,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Comazzi-Politica">
+            <div type="data" xml:id="Comazzi-Politica">
                <head>Giovanni Battista Comazzi, Politica e religione trovate insieme nella persona,
                   parole ed azioni di Giesu Cristo</head>
                <p>Grof Giovanni Battista Comazzi (1654‒1711), državnik na dvoru cesarja Leopolda I.,
@@ -1480,8 +1479,8 @@
                      knjižnice.</p>
                </div>
             </div>
-            <div xml:id="Dalmatin-Biblia">
-               <head>Jurij Dalmatin, Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta </head>
+            <div type="data" xml:id="Dalmatin-Biblia">
+               <head>Jurij Dalmatin, Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta</head>
                <p>Dalmatinova Biblija je po pravilih rimskega indeksa sicer spadala med prepovedane
                   knjige, vendar med najmanj problematične, zato se je ohranila v veliko izvodih. V
                   zadnjem stoletju se je razširila zmotna razlaga, da naj bi jo med protireformacijo
@@ -1544,7 +1543,7 @@
                      <graphic url="Dalmatin-1584d.jpg"/>
                   </figure>
                </div>
-               <div xml:id="Dalmatin-1584e.jpg">
+               <div xml:id="Dalmatin-1584e">
                   <head>Biblia, tv ie, vse Svetv Pismv, Stariga inu Noviga Teſtamenta, Slovenſki,
                      tolmazhena, ſkusi Ivria Dalmatina. Wittemberg, 1584. (Nazarje, Frančiškanski
                      samostan Nazarje, brez signature)</head>
@@ -1593,7 +1592,7 @@
                      cenzure, ki je bila v primeru tega izvoda precej mila, ni.</p>
                </div>
             </div>
-            <div xml:id="Dalmatin-Svetiga_Pisma_pervi_deil">
+            <div type="data" xml:id="Dalmatin-Svetiga_Pisma_pervi_deil">
                <head>Jurij Dalmatin, Biblie, tv ie, vsiga Svetiga Pisma pervi deil</head>
                <p>Dalmatinov slovenski prevod pentatevha je bil del podviga slovenskega prevoda in
                   izdaje celotnega Svetega pisma. Dalmatin je dal do leta 1580 pri ljubljanskem
@@ -1617,7 +1616,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Decimator-Silvae">
+            <div type="data" xml:id="Decimator-Silvae">
                <head>Heinrich Decimator, Silvae vocabulorum et phrasium</head>
                <p>Heinrich Decimator (1544‒1615), nemški protestantski teolog, astronom in
                   jezikoslovec, je bil avtor vplivnih jezikoslovnih del, med drugim večjezičnega
@@ -1652,7 +1651,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Rotterdamski-Adagia">
+            <div type="data" xml:id="Rotterdamski-Adagia">
                <head>Erazem Rotterdamski, Adagia</head>
                <p>Odnos Cerkve do del Erazma Rotterdamskega (1466–1536), tudi do njegove zbirke
                   pregovorov <hi rend="italic">Adagia</hi>, je bil – zaradi kvalitete, uporabnosti
@@ -1714,7 +1713,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Frischlin-Operum_poeticorum">
+            <div type="data" xml:id="Frischlin-Operum_poeticorum">
                <head>Nikodem Frischlin, Operum poeticorum pars scenica</head>
                <p>Čeprav je württemberški humanist in pesnik Nikodem Frischlin (1547–1590) kot velik
                   poznavalec in občudovalec antične književnosti večinoma pisal literarna dela v
@@ -1748,7 +1747,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Grotius-De_jure_belli">
+            <div type="data" xml:id="Grotius-De_jure_belli">
                <head>Hugo Grotius, De jure belli et pacis</head>
                <p>Delo nizozemskega pravnika Huga Grotia <hi rend="italic">De jure belli et
                      pacis</hi>, ki je prvič izšlo leta 1625, je pomembno vplivalo na razvoj
@@ -1771,7 +1770,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Helvétius-De_lʼhomme">
+            <div type="data" xml:id="Helvétius-De_lʼhomme">
                <head>Claude Adrien Helvétius, De lʼhomme</head>
                <p>Claude Adrien Helvétius (1715–1771) je bil eden najradikalnejših francoskih
                   razsvetljencev. Ker Cerkev v 18. stoletju ni več uporabljala kategorije avtorjev
@@ -1796,7 +1795,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Hotman-In_quatuor_libros">
+            <div type="data" xml:id="Hotman-In_quatuor_libros">
                <head>François Hotman, In quatuor libros Institutionum juris civilis eruditissima
                   commentaria</head>
                <p>Kalvinec François Hotman je bil eden najbolj znanih, pa tudi spornih političnih
@@ -1824,7 +1823,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Hotman-In_tractatum">
+            <div type="data" xml:id="Hotman-In_tractatum">
                <head>François Hotman, In tractatum de actionibus</head>
                <p>Med pravnimi deli Calvinovega tajnika Françoisa Hotmana, ki so zaradi uporabnosti
                   krožila na Slovenskem, je bila tudi juridična razprava <hi rend="italic">In
@@ -1846,7 +1845,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Teramo-Consolatio">
+            <div type="data" xml:id="Teramo-Consolatio">
                <head>Jacobus de Teramo, Consolatio peccatorum</head>
                <p>Jacobus de Teramo (1349–1417) je bil spoštovana osebnost poznosrednjeveške Cerkve,
                   znan predvsem kot sposoben škof in poznavalec kanonskega prava. Poleg mnogih
@@ -1876,7 +1875,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Kopernik-De_revolutionibus">
+            <div type="data" xml:id="Kopernik-De_revolutionibus">
                <head>Nikolaj Kopernik, De revolutionibus orbium coelestium</head>
                <p>Najpomembnejše delo poljskega astronoma Nikolaja Kopernika (1473–1543)<hi
                      rend="italic">O revolucijah nebesnih sfer</hi>je v zgodnjem novem veku usodno
@@ -1923,7 +1922,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="La_Fontaine-Contes">
+            <div type="data" xml:id="La_Fontaine-Contes">
                <head>Jean de La Fontaine, Contes et nouvelles </head>
                <p>Francoski klasicistični pesnik in pisatelj Jean de La Fontaine (1621–1695) je leta
                   1665 v Parizu objavil <hi rend="italic">Contes et nouvelles</hi>, zbirko kratkih
@@ -1948,7 +1947,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Leti-Vita">
+            <div type="data" xml:id="Leti-Vita">
                <head>Gregorio Leti, Vita di Sisto V.</head>
                <p>Gregorio Leti (1630–1701) je bil eden najvplivnejših političnih pamfletistov 17.
                   stoletja, ki je ostro napadal predvsem papeštvo in Cerkev. Več njegovih del je
@@ -1970,7 +1969,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Luther-Biblia">
+            <div type="data" xml:id="Luther-Biblia">
                <head>Martin Luther, Biblia, das ist: die gantze Heylige Schrifft </head>
                <p>Po pravilih rimskega indeksa protestantski svetopisemski prevodi niso bili najbolj
                   sporni, še posebej, če je šlo za prevode Stare zaveze in za prevajalce, ki niso
@@ -1997,7 +1996,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Luther-Supputatio">
+            <div type="data" xml:id="Luther-Supputatio">
                <head>Martin Luther, Supputatio annorum mundi</head>
                <p>Martin Luther (1483‒1546) je bil uvrščen v prvi razred prepovedanih avtorjev po
                   rimskem indeksu, to je med najbolj nevarne avtorje. Njegov opus je bil torej že
@@ -2025,7 +2024,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Machiavelli-Dell_arte">
+            <div type="data" xml:id="Machiavelli-Dell_arte">
                <head>Niccolò Machiavelli, Dell'arte della guerra</head>
                <p>Delo<hi rend="italic"> Dellʼarte della guerra</hi>, ki ga je Machiavelli napisal v
                   letih 1519 in 1520, je edino njegovo filozofsko in zgodovinsko delo, ki je bilo
@@ -2057,7 +2056,7 @@
                      italijanskimi izvirniki. </p>
                </div>
             </div>
-            <div xml:id="Machiavelli-Il_Principe">
+            <div type="data" xml:id="Machiavelli-Il_Principe">
                <head>Niccolò Machiavelli, Il Principe</head>
                <p>Politični traktat Niccolòja Machiavellija (1469‒1527) je bil napisan leta 1513 in
                   prvič natisnjen po avtorjevi smrti, leta 1532, v naslednjih petindvajsetih letih
@@ -2093,7 +2092,7 @@
                   </p>
                </div>
             </div>
-            <div xml:id="Malleus">
+            <div type="data" xml:id="Malleus">
                <head>Malleus maleficarum</head>
                <p>
                   <hi rend="italic">Malleus maleficarum</hi>, priročnik za prepoznavanje in sodno
@@ -2127,7 +2126,7 @@
                      smrti z volilom prišla v Semeniško knjižnico v Ljubljani.</p>
                </div>
             </div>
-            <div xml:id="Melanchthon-Annotationes">
+            <div type="data" xml:id="Melanchthon-Annotationes">
                <head>Philipp Melanchthon, Annotationes in Epistolam Pauli ad Romanos unam et ad
                   Corinthios duas</head>
                <p>Philipp Melanchthon (1497‒1560), sodelavec Martina Luthra, najpomembnejši teolog
@@ -2155,7 +2154,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Melanchthon-Erotemata">
+            <div type="data" xml:id="Melanchthon-Erotemata">
                <head>Philipp Melanchthon, Erotemata dialectices</head>
                <p>Philipp Melanchthon je kot dolgoletni profesor na univerzi v Wittenbergu napisal
                   vrsto temeljnih humanističnih del, uporabnih tudi za katolike, ki niti niso bila
@@ -2174,7 +2173,7 @@
                      stoletja z zamenjavo prišla v Semeniško knjižnico.</p>
                </div>
             </div>
-            <div xml:id="Melanchthon-Liber_de_anima">
+            <div type="data" xml:id="Melanchthon-Liber_de_anima">
                <head>Philipp Melanchthon, Liber de anima</head>
                <p>Melanchthonova razprava, napisana proti koncu njegovega življenja in prvič
                   objavljena leta 1553, se ukvarja z naukom o človeški duši s teološkega vidika. Med
@@ -2198,8 +2197,7 @@
                   </figure>
                </div>
             </div>
-            <pb/>
-            <div xml:id="Menghi-Flagellum">
+            <div type="data" xml:id="Menghi-Flagellum">
                <head>Girolamo Menghi, Flagellum daemonum</head>
                <p>
                   <hi rend="italic">Bič demonov</hi> je najpomembnejše delo frančiškana Girolama
@@ -2236,7 +2234,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Milton-Paradise">
+            <div type="data" xml:id="Milton-Paradise">
                <head>John Milton, Paradise lost</head>
                <p>
                   <hi rend="italic">Izgubljeni raj</hi>, angleška pesnitev Johna Miltona
@@ -2258,7 +2256,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Montaigne-Essais">
+            <div type="data" xml:id="Montaigne-Essais">
                <head>Michel de Montaigne, Essais</head>
                <p>
                   <hi rend="italic">Eseji</hi> francoskega filozofa Michela de Montaigna (1533–1592)
@@ -2294,7 +2292,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Montesquieu-esprit">
+            <div type="data" xml:id="Montesquieu-esprit">
                <head>Montesquieu, De lʼesprit des loix</head>
                <p>Montesquieujevo politično delo <hi rend="italic">O duhu zakonov</hi>, prvič
                   objavljeno leta 1748, je francosko javnost razburilo, ker je ne glede na obstoječo
@@ -2316,7 +2314,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Musculus-Opera">
+            <div type="data" xml:id="Musculus-Opera">
                <head>Wolfgang Musculus, Opera D. Basilii Magni</head>
                <p>Komentirano izdajo del sv. Bazilija Velikega je pripravil in leta 1540 objavil
                   luteranski teolog Wolfgang Musculus (1497‒1563), ki je tedaj deloval v Augsburgu,
@@ -2342,7 +2340,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Ovidij-Ars">
+            <div type="data" xml:id="Ovidij-Ars">
                <head>Ovidij, Ars amatoria</head>
                <p>Erotična besedila je obravnavalo sedmo tridentinsko pravilo rimskega indeksa, ki
                   pa je bilo zelo popustljivo do tovrstnih del antičnih avtorjev: ta je izrecno
@@ -2363,7 +2361,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Palazzi-Metamorfosi">
+            <div type="data" xml:id="Palazzi-Metamorfosi">
                <head>Giovanni Palazzi, Metamorfosi di P. Ovidio N.</head>
                <p>Benečan Giovanni Palazzi je pred letom 1674 pod psevdonimom Francesco Bardi
                   Ovidijeve <hi rend="italic">Metamorfoze</hi> predelal v serijo emblemov, za katere
@@ -2393,7 +2391,7 @@
                      Aleksandru Mikuliću.</p>
                </div>
             </div>
-            <div xml:id="Pallavicino-Le_bellezze">
+            <div type="data" xml:id="Pallavicino-Le_bellezze">
                <head>Ferrante Pallavicino, Le bellezze dellʼanima</head>
                <p>Italijanski pisatelj Ferrante Pallavicino (1615–1644) je bil eden najbolj
                   kontroverznih in prodajanih avtorjev 17. stoletja, ki ni doživel le prepovedi
@@ -2419,7 +2417,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Pallavicino-Sansone">
+            <div type="data" xml:id="Pallavicino-Sansone">
                <head>Ferrante Pallavicino, Il Sansone </head>
                <p>Pallavicino je za roman<hi rend="italic">Il Sansone</hi>, ki je bil prvič
                   objavljen leta 1638 v Benetkah, uporabil starozavezno zgodbo o Samsonu, v katero
@@ -2452,7 +2450,7 @@
                      njegovi objavi prevoda.</p>
                </div>
             </div>
-            <div xml:id="Paracelsus-Septem">
+            <div type="data" xml:id="Paracelsus-Septem">
                <head>Paracelsus, Septem defensiones adversus aemulos suos </head>
                <p>Dela zdravnika, astrologa in alkimista Paracelsa (1493–1541) so bila med najbolj
                   razširjenimi medicinskimi deli zgodnjenovoveške Evrope. Odnos cerkvenih oblasti do
@@ -2483,7 +2481,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Pascal-Lettres">
+            <div type="data" xml:id="Pascal-Lettres">
                <head>Blaise Pascal, Lettres provinciales</head>
                <p>Delo <hi rend="italic">Lettres provinciales</hi> v obliki fiktivnih pisem je
                   predhodnik razsvetljenstva Blaise Pascal prvič objavil v letih 1656‒1657, in sicer
@@ -2534,7 +2532,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Pelzhoffer-Arcanorum">
+            <div type="data" xml:id="Pelzhoffer-Arcanorum">
                <head>Franc Albert Pelzhoffer, Arcanorum status</head>
                <p>Franc Albert Pelzhoffer baron Schönau (okrog 1645‒1710) je bil edini Kranjec, ki
                   je prišel na dunajski indeks. Njegovo delo<hi rend="italic">Arcanorum status</hi>
@@ -2560,7 +2558,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Praetorius-Tuba_pacis">
+            <div type="data" xml:id="Praetorius-Tuba_pacis">
                <head>Matthäus Prätorius, Tuba pacis ad universas dissidentes in occidente
                   ecclesias</head>
                <p>Matthäus Prätorius je bil protestantski pastor in zgodovinar, ki se je proti koncu
@@ -2584,7 +2582,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Rhenanus-Opera">
+            <div type="data" xml:id="Rhenanus-Opera">
                <head>Beatus Rhenanus, Opera Q. Septimii Florentis Tertulliani</head>
                <p>Beatus Rhenanus (1485‒1547) je bil nemški humanist, protestant in bibliofil. Leta
                   1511 se je preselil v Basel, kjer se je spoprijateljil z Erazmom Rotterdamskim in
@@ -2605,7 +2603,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Rousseau-contrat">
+            <div type="data" xml:id="Rousseau-contrat">
                <head>Jean-Jacques Rousseau, Du contrat social</head>
                <p>Rousseaujevo delo <hi rend="italic">Du contrat social</hi>, prvič objavljeno leta
                   1762, je nasprotovalo ideji božanske pravice vladarjev do vladanja in utemeljevalo
@@ -2629,7 +2627,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Sansovino-Cento_novelle">
+            <div type="data" xml:id="Sansovino-Cento_novelle">
                <head>Francesco Sansovino, Cento novelle scelte da piu nobili scrittori</head>
                <p>Po VII. pravilu rimskega indeksa, ki je obravnavalo opolzke knjige, so bila
                   dovoljena le tovrstna dela antičnih avtorjev, in sicer zaradi tradicije in lepega
@@ -2650,7 +2648,7 @@
                      dovoljenje.</p>
                </div>
             </div>
-            <div xml:id="Schoenleben-Palma_virginea">
+            <div type="data" xml:id="Schoenleben-Palma_virginea">
                <head>Janez Ludvik Schönleben, Palma virginea sive Deiparae Virginis Mariae de
                   adversariis suae immaculatae conceptionis victoriae omnium seculorum aere
                   christianae </head>
@@ -2693,7 +2691,7 @@
                      kapucinskega samostana v Škofji Loki.</p>
                </div>
             </div>
-            <div xml:id="Schoenleben-De_officio">
+            <div type="data" xml:id="Schoenleben-De_officio">
                <head>Janez Ludvik Schönleben, De officio immaculatae conceptionis Deiparae</head>
                <p>Delo je izšlo v dveh izdajah, leta 1680 in 1681. Izdaji se razlikujeta le po
                   naslovnici in oblikovno, vsebinsko se ujemata. Avtor se skriva pod psevdonimom
@@ -2717,7 +2715,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Sleidanus-De_statu">
+            <div type="data" xml:id="Sleidanus-De_statu">
                <head>Johannes Sleidanus, De statu religionis et reipublicae Carolo V. Caesare
                   commentarii</head>
                <p>Kronist Johannes Sleidanus (1506‒1556) je po naročilu nemških protestantskih
@@ -2744,7 +2742,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Pasquini-Staats-Phantasien">
+            <div type="data" xml:id="Pasquini-Staats-Phantasien">
                <head>Des Träumenden Pasquini kluger Staats-Phantasien</head>
                <p>Na Slovensko so v 17. in 18. stoletju kljub prepovedim prišli italijanski in
                   nemški posmehljivi ali sramotilni spisi, ki so bili v svojih komentarjih aktualnih
@@ -2767,7 +2765,7 @@
                      lastnoročno označil na naslovnici: »Ex Bibliotheca Gerbeziana«.</p>
                </div>
             </div>
-            <div xml:id="Trubar-Articuli">
+            <div type="data" xml:id="Trubar-Articuli">
                <head>Primož Trubar, Articuli oli deili, te prave stare vere kerszhanske</head>
                <p>Primož Trubar (okrog 1508–1586) je bil edini Kranjec in Slovenec, ki je bil
                   uvrščen med avtorje prvega razreda. Njegovi <hi rend="italic">Articuli</hi> so
@@ -2789,7 +2787,7 @@
                   </figure>
                </div>
             </div>
-            <div xml:id="Vergerij-inquisitori">
+            <div type="data" xml:id="Vergerij-inquisitori">
                <head>Peter Pavel Vergerij, A gl’ inquisitori che sono per l’Italia</head>
                <p>Peter Pavel Vergerij, nekdanji koprski škof, ki je prestopil iz katolištva v
                   protestantizem in se zatekel pod okrilje württemberškega vojvode, je bil eden od
